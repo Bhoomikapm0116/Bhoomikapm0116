@@ -10,7 +10,7 @@
 
 **Programming Languages:**
 
-- 🟡 JavaScript (Primary)
+- 🟡 JavaScript
 - 🔴 HTML
 - 🟣 CSS
 - 🔵 Python
