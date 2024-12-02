@@ -1,4 +1,4 @@
-# Hi there, I'm Bhoomika
+# Hi there, I'm Bhoomika 👋
 
 ## About Me
 
