@@ -4,7 +4,7 @@
 
  **Education:** Computer Science Engineering  
  **Aspiration:** Web Developer and Data Analyst  
- **Current Focus:** Completing advanced data analytics and developing web applications
+ **Current Focus:** Learning advanced data analytics and developing web applications
 
 ## Skills
 
