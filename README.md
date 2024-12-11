@@ -11,8 +11,7 @@
 **Programming Languages:**
 
 - 🟡 JavaScript
-- 🔴 HTML
-- 🟣 CSS
+- 🔴 HTML & CSS
 - 🔵 Python
 - 🟣 SQL
   
