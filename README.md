@@ -4,7 +4,7 @@
 
  **Education:** Computer Science Engineering  
  **Aspiration:** Web Developer and Data Analyst  
- **Current Focus:** Learning advanced data analytics and developing web applications
+ **Current Focus:** Learning Python
 
 ## Skills
 
@@ -21,4 +21,5 @@
 
 ## Let's Connect
   
-🔗 **LinkedIn:** [www.linkedin.com/in/bhoomika-p-m](https://www.linkedin.com/in/bhoomika-p-m)
+🌐 **LinkedIn:** <a href="https://www.linkedin.com/in/bhoomika-p-m/" target="_blank">Bhoomika P M</a>
+
