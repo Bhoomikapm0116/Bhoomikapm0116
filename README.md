@@ -17,7 +17,7 @@
   
 ## Career Goal
 
-🎯 **To become a Web Development Engineer .**
+🎯 **To pursue a career in web development.**
 
 ## Let's Connect
   
