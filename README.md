@@ -14,6 +14,7 @@
 - 🔴 HTML & CSS
 - 🔵 Python
 - 🟣 SQL
+- 🟢 Java
   
 ## Career Goal
 
