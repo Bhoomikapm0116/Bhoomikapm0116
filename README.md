@@ -18,7 +18,7 @@
   
 ## Career Goal
 
-🎯 **To pursue a career in web development.**
+🎯 **To pursue a career in Software Development.**
 
 ## Let's Connect
   
